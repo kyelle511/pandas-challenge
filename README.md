@@ -43,7 +43,7 @@ Of the district's 39,170 high school students, 74.98% are passing math and 85.81
 *School Summary*:
 In the 15 high schools, school sizes ranged from 427-4976 students (with an average of 2611) and per student budgets ranging from $578-$655 (with an average of $620).  The percent of students passing in math ranged from 65.68%-91.33% (average 80.99%), and the percent of students passing in reading ranged from 79.3%-97.3% (average 89.22%).  The percent of students passing overall by school ranged from 52.99-91.33% (average 73.28%).
 
-![Alt text](PerSchoolSummary-1.png)
+![Alt text](PerSchoolSummary.png)
 
 *Highest Performing Schools*:
 The highest performing schools based on overall % of students passing both tests were all Charter schools with number of students ranging from 962-2283 (average 1641 students). The percent of students passing math ranged from 93.27%-94.59%, and the percent of students passing reading ranged from 95.95%-97.31%.
@@ -71,7 +71,7 @@ As schools spend more per student the % of students passing both tests decreases
 ![Alt text](GroupedBySpending.png)
 
 *Scores by School Size*:
-Small and medium sized schools had comparable overall passing rates (89.88% and 90.62%).  However, larger schools had much lower overall passing rate (58.28%).  Additionally, larger schools had much fewer students passing math than reading (69.96% math, 82.77% reading)
+Small and medium sized schools had comparable overall passing rates (89.88% and 90.62%).  However, larger schools had much lower overall passing rate (58.28%).  Additionally, larger schools had much fewer students passing math than reading (69.96% math, 82.77% reading).
 
 ![Alt text](GroupedBySize.png)
 
